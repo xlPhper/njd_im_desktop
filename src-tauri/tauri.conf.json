@@ -10,7 +10,8 @@
     "frontendDist": "../dist"
   },
   "app": {
-    "windows": [
+      "macOSPrivateApi": true,
+      "windows": [
       {
         "title": "宁嘉迪客服工作台",
         "width": 1000,
