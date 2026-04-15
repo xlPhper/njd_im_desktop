@@ -1,5 +1,5 @@
 [package]
-name = "im_pc_tauri"
+name = "njd_im_desktop"
 version = "0.1.0"
 description = "A Tauri App"
 authors = ["you"]
