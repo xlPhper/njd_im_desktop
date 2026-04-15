@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "宁嘉迪客服",
+  "productName": "njd_im_desktop",
   "version": "0.1.0",
   "identifier": "com.njd.im.desktop",
   "build": {
